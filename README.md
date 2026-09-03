@@ -10,7 +10,7 @@ It also cleans standby RAM and forces your Dedicated GPU for maximum performance
 FOLDER STRUCTURE (Keep it clean!):
 To keep things organized and avoid a mess of files, set up your game folder exactly like this:
 
-📂 Your Game Folder/
+📂 God of War Ragnarok/
  ├── 📁 Data/           <-- Put ALL game files, folders, and the CPU .exe files inside here.
  ├── ⚙️ config.ini      <-- (Auto-generated the first time you run the launcher).
  └── 🚀 Launcher.exe    <-- Keep this outside, right next to the Data folder.
