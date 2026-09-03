@@ -1,6 +1,6 @@
 ```text
 =========================================
-      F.CRACK - PRO ELITE LAUNCHER
+          F.CRACK - LAUNCHER
 =========================================
 
 WHAT IT DOES:
