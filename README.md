@@ -1,9 +1,11 @@
+```text
 =========================================
       F.CRACK - PRO ELITE LAUNCHER
 =========================================
 
 WHAT IT DOES:
-This smart launcher scans your hardware and automatically selects the most optimized game executable for your specific CPU (AVX2 / F16C). It also cleans standby RAM and forces your Dedicated GPU for maximum performance.
+This smart launcher scans your hardware and automatically selects the most optimized game executable for your specific CPU (AVX2 / F16C). 
+It also cleans standby RAM and forces your Dedicated GPU for maximum performance.
 
 FOLDER STRUCTURE (Keep it clean!):
 To keep things organized and avoid a mess of files, set up your game folder exactly like this:
@@ -21,3 +23,4 @@ HOW TO USE:
 * OPTIONAL: Open "config.ini" with Notepad to tweak CPU Priority, Launch Options, or GPU settings.
 
 Enjoy!
+```
