@@ -15,7 +15,7 @@ To keep things organized and avoid a mess of files, set up your game folder exac
 
 HOW TO USE:
 1. Make sure all game files are inside the "Data" folder.
-2. Run "Launcher.exe" (Run as Administrator is recommended).
+2. Run "Launcher.exe"
 3. The launcher will do all the background work and start the game.
 
 * OPTIONAL: Open "config.ini" with Notepad to tweak CPU Priority, Launch Options, or GPU settings.
